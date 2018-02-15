@@ -1,13 +1,13 @@
 ---
-title: Inscriptions pour Plein-Phare - v-75
+title: Inscriptions pour Plein-Phare - v-34
 description: Liste pour s'inscrire à la session Plein-Phare
-image_url: https://github.com/walkingdev/plein-phare/blob/master/media/banner-inscription.png?raw=true
+image_url: https://github.com/walkingdev/bp-vs-bm/blob/master/media/banner-inscription.png?raw=true
 ---
 
 #### Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/plein-phare/blob/master/v-75/faq.md)
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/bp-vs-bm/blob/master/v-34/faq.md)
 
 * *nom - prénom - moyens de contact *
 

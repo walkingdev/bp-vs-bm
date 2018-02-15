@@ -6,29 +6,28 @@ description: Les infos pour tout comprendre comment ça marche !
 ## FAQ
 
 ## Cette journée d'exploration, c'est quoi ? 
-Dans le cadre des évolutions du groupe financement de la Cagette et afin de les faciliter, nous proposons comme thème de partir sur le thème suivant :
+Dans le cadre des évolutions du groupe financement de la Cagette et afin de les faciliter, nous proposons comme thème de partir sur le suivant :
 
 Le Business Plan. Comment transmettre cet outil ? Quelles alternatives ? Comment faire de la gestion en collectif ? 
 
 ### Une journée découverte : on va faire quoi ?
-En explorant des lieux insolites dans Montpellier, on va explorer ensemble les problématiques liées aux Business Plan et à son pendant le Business Model. Pour ça on va créer la journée ensemble, se balader et s'installer pour échanger dans des lieux insolites ou sympathiques.
+En explorant des lieux insolites dans Montpellier, on va explorer ensemble les problématiques liées au Business Plan et à son pendant : le Business Model. Pour ça on va créer la journée ensemble, se balader et s'installer pour échanger dans des lieux insolites ou sympathiques.
 On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
 La marche commence **le samedi 17 février 2018 à 9h30** et se termine vers 18h30.  
-RDV au [Le Dôme](https://www.ledomemontpellier.fr/) - Rue 2,avenue Clémenceau - Montpellier.
+RDV à [Le Dôme](https://www.ledomemontpellier.fr/) -  2,avenue Clémenceau - Montpellier.
 
 ### C'est pour qui ?
 
-C'est pour toi si :
-- membres de la Cagette
-- au personne qui se poserait des questions sur la création d'un Business Plan
-- Ou encore si tu as juste envie d'apprendre des trucs 
+C'est pour toi si tu es:
+- membre de la Cagette
+- une personne qui se pose des questions sur la création d'un Business Plan
+- quelqu'un qui a juste envie d'apprendre des trucs 
 
 ### C'est qui qui organise ?
-
-Les 4 créateurs·rices de Plein Phare   
+  
 - Élie : Salarié de la Cagette, co-auteur du Business Plan de la Cagette.
 - Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur.
 
@@ -38,7 +37,7 @@ Au moins 5, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
-Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
+Ramène ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
 
 ### On marche beaucoup ?
 

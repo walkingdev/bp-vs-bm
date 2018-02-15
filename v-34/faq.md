@@ -1,7 +1,6 @@
 ---
 title: FAQ sur la journée d'exploration
 description: Les infos pour tout comprendre comment ça marche !
-image_url: https://github.com/walkingdev/bp-vs-bm/blob/master/media/banner-darktable.png?raw=true
 ---
 
 ## FAQ

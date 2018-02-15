@@ -1,7 +1,6 @@
 ---
 title: Inscriptions - v-34
-description: Liste pour s'inscrire à la session Plein-Phare
-image_url: https://github.com/walkingdev/bp-vs-bm/blob/master/media/banner-inscription.png?raw=true
+description: Liste pour s'inscrire à la session bp vs bm
 ---
 
 #### Inscriptions

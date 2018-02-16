@@ -17,7 +17,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 ### C'est quand et où ?
 
 La marche commence **le samedi 17 février 2018 à 9h30** et se termine vers 18h30.  
-RDV à [Le Dôme](https://www.ledomemontpellier.fr/) -  2,avenue Clémenceau - Montpellier.
+RDV à [La Jalade](https://www.openstreetmap.org/node/2392611838) - 2, rue de la Jalade - Montpellier.
 
 ### C'est pour qui ?
 
@@ -70,4 +70,4 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 #### Et si j'ai une question ?
 
-Tu peux contacter [ÉLIE](mailto:elie.daviron@gmail.com). Elle se réjouit d'avance à l'idée de te répondre !
+Tu peux contacter [Élie](mailto:elie.daviron@gmail.com). Elle se réjouit d'avance à l'idée de te répondre !
